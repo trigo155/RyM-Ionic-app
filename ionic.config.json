@@ -1,0 +1,7 @@
+{
+  "name": "RyM-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
